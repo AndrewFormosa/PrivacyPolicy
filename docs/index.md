@@ -4,7 +4,7 @@
 <h2>Privacy Policy</h2>
 <p>Andrew Formosa built the Flashy Square app as a commercial app.</p>
 <p>This page is used to inform website visitors regarding our policies with the collection, use, and
-    disclosure of Personal Information if anyone decided to use our Service.</p>
+    disclosure of Personal Information.</p>
 
 <p><strong>Information Collection and Use</strong></p>
 <p>The information that we request is retained on your device and is not
